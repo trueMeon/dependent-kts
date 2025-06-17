@@ -59,6 +59,3 @@ fun evaluationConfiguration(kClass: KClass<*>, vararg arguments: Any) = createEv
 ) {
     constructorArgs(*arguments)
 }
-
-val a = "".toScriptSource()
-fun String.sourceCode(): SourceCode = StringScriptSource(this)
