@@ -1,0 +1,2 @@
+# Description
+This project is an official working example of the approach described in [the Medium article](https://medium.com/@dsr-pr-team/keep-your-scripts-decoupled-flexible-and-safe-dependency-injection-for-kotlin-scripts-6f6fef519468).
